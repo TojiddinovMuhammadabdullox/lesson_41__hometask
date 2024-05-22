@@ -1,4 +1,6 @@
-Dizayn muhim bo'lmagani uchun dizayn etibor qaratilmagan va MVC arxitekturasidan foydalanilgan 
+wDizayn muhim bo'lmagani uchun dizayn etibor qaratilmagan va MVC arxitekturasidan foydalanilgan 
 
-Uploading 2024-05-22 14-16-12.mov…
+https://github.com/TojiddinovMuhammadabdullox/lesson_41__hometask/assets/106306495/6788c1db-3acb-447d-9dc3-be39bab6796f
+
+=
 
